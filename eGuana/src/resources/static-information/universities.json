@@ -1,0 +1,21 @@
+{
+    "universities":[
+        {
+            "name": "Example University",
+            "founded": 1553,
+            "description": "A university in Glodok",
+            "notable-alumni": [
+                {
+                    "name": "Alan Alanderson",
+                    "degree": "Tree staringology",
+                    "graduation-date": 2015,
+                    "current-job": "Law Enforcer for Pentu",
+                    "image-name": null
+                }
+            ],
+            "image": null,
+            "association": "Bapak Hirawan Foundation"
+        }
+    ]
+    
+}
